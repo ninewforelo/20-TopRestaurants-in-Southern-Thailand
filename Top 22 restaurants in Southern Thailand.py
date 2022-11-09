@@ -1,5 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
+!pip install selenium
+!pip install bs4
+!pip install pandas
 
 # In[1]:
 
